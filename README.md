@@ -15,3 +15,6 @@ Useage:
 1. download the files
 2. the ipynb file you run will create all required ".pkl" files
 3. you can run the app.py file, which starts your application at available port 8501, make sure its free or reconfigure your port manually.
+
+A look at the project..
+![image](https://github.com/Aryan354/recommender_system/assets/95020610/1f6d2af5-89e2-4b47-b8eb-6202dd7c15c0)
